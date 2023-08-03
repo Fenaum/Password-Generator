@@ -1,24 +1,36 @@
-## User Story
-- AS AN employee with access to sensitive data
-- I WANT to randomly generate a password that meets certain criteria
-- SO THAT I can create a strong password that provides greater security
-
-## Aceptance Criteria
-
-- GIVEN I need a new, secure password
-- WHEN I click the button to generate a password
-- THEN I am presented with a series of prompts for password criteria
-- WHEN prompted for password criteria
-- THEN I select which criteria to include in the password
-- WHEN prompted for the length of the password
-- THEN I choose a length of at least 8 characters and no more than 128 characters
-- WHEN asked for character types to include in the password
-- THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-- WHEN I answer each prompt
-- THEN my input should be validated and at least one character type should be selected
-- WHEN all prompts are answered
-- THEN a password is generated that matches the selected criteria
-- WHEN the password is generated
-- THEN the password is either displayed in an alert or written to the page
-
-https://fenaum.github.io/Password-Generator/
+# Password Generator
+   
+  ## Table-of-Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+   
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  ## [Description](#table-of-contents)
+  This is a password generator application that generate random passwords
+  As a user, I want to generate a passowrd that meets certain criteria that provides great security
+  click the button to generate a password and answer all the prompts correctly
+  ## [Installation](#table-of-contents)
+  this is a web based app. N/A
+  ## [Usage](#table-of-contents)
+  when they need a secured password
+  
+  For more information on how to add screenshots for examples, visit the following website:
+  
+  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
+  
+   
+  ## [Contributing](#table-of-contents)
+  
+  
+  I will not accept contribution from third-parties at this time. Thank you.
+    
+  ## [Tests](#table-of-contents)
+  n/a
+  ## [Questions](#table-of-contents)
+  Please contact me using the following links:
+  [GitHub](https://github.com/Fenaum)
+  [Email: hnguyen4497@outlook.com](mailto:hnguyen4497@outlook.com)
